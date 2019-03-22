@@ -8,8 +8,8 @@ favicon: /favicon.png
 monochrome: true
 
 # view setting
-avatar: https://cn.gravatar.com/avatar/35fef74d731255cd569c2c2b0b9e87e4?s=200
-avatarLink: /about
+avatar: https://avatars0.githubusercontent.com/u/8656942?v=3&s=460
+avatarLink: #/about
 maxContentWidth: 1000px # set the main content column's max-width property. keep it blank to unlimited the width
 copyright: # the copyright text in the footer, could be richtext
 
@@ -38,7 +38,7 @@ nav:
       url: https://github.com/denjones/hexo-theme-chan
     -
       name: Github
-      url: https://github.com/denjones
+      url: https://github.com/kaigiks
     -
       name: RSS
       url: /atom.xml
@@ -61,7 +61,7 @@ fb_app_id:
 
 # analytics ids
 google_analytics:
-baidu_statistics:
+# baidu_statistics:
 
 # default creative commons
 # There are 6 kinds of combination and place 'none' to disable.
@@ -81,3 +81,6 @@ cc: by-sa
 # Check http://photoswipe.com
 fancybox: true    # enable fancybox/photoswipe rendering
 # photoswipe: true  # the same
+
+
+# Other settings:
